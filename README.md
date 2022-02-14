@@ -5,11 +5,14 @@
 
 
 [![asimon's 42 stats](https://badge42.herokuapp.com/api/stats/asimon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+_Every day is a fight against BH_
+
 [![casuis's GitHub stats](https://github-readme-stats.vercel.app/api?username=casuis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-_Every day is a fight against BH_
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casuis&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

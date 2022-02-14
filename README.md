@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C969C,100:6D9DC5&height=200&text=Hi!%20welcome%20on%20my%20Github&fontSize=24&fontAlignY=40&fontColor=FFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEB3,100:35A7FF&height=250&text=Hi%20There!%20I'm%20Arthur&fontSize=30&fontAlignY=40&desc=Welcome%20on%20my%20Github&descAlignY=55&animation=fadeIn&fontColor=1C1D21" alt="header" width="100%" />
 
 
 ### 🌱 I’m a 42 student in Paris
@@ -19,6 +19,7 @@ _Every day is a fight against BH_
 - 📧 slack : asimon
 
 - 🤖 discord : casuis#7228
+
 <!--
 **casuis/casuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

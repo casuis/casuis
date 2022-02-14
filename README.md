@@ -5,11 +5,16 @@
 
 
 [![asimon's 42 stats](https://badge42.herokuapp.com/api/stats/asimon?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+[![casuis's GitHub stats](https://github-readme-stats.vercel.app/api?username=casuis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 _Every day is a fight against BH_
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casuis&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ***
 
 - 🔭 Working on my exam 02 & minishell
@@ -19,6 +24,9 @@ _Every day is a fight against BH_
 - 📧 slack : asimon
 
 - 🤖 discord : casuis#7228
+
+
+
 
 <!--
 **casuis/casuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

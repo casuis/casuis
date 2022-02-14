@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C969C,100:6D9DC5&height=200&text=Hi,%20welcome%20on%20my%20Github&fontSize=24&fontAlignY=40&fontColor=FFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C969C,100:6D9DC5&height=200&text=Hi!%20welcome%20on%20my%20Github&fontSize=24&fontAlignY=40&fontColor=FFFFF" alt="header" width="100%" />
 
 
 ### 🌱 I’m a 42 student in Paris

@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:CBBEB3,100:35A7FF" alt="header" width="100%" />
 
 - 🌱 I’m a 42 student in Paris
-- 🔭 Working on my exam 02 & minishell 
+- 🔭 Working on my Philosopher 
 - 📫 mail : asimon@student.42.fr
 - 📧 slack : asimon
 - 🤖 discord : casuis#7228

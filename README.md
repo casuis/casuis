@@ -14,7 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casuis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:CBBEB3,100:35A7FF" alt="header" width="100%" />
 
 
 

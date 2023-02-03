@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEB3,100:35A7FF&height=171&text=Hi%20There!%20I'm%20Arthur&fontSize=30&fontAlignY=40&desc=Welcome%20on%20my%20Github&descAlignY=55&animation=fadeIn&fontColor=1C1D21" alt="header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEB3,100:35A7FF&height=10&&descAlignY=55" alt="header" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CBBEB3,100:35A7FF&height=17&descAlignY=55&animation=fadeIn&fontColor=1C1D21" alt="header" width="100%" />
 
 
 - 💻 I’m a 42 student in Paris

@@ -2,7 +2,8 @@
 
 
 - 💻 I’m a 42 student in Paris
-- 🔭 Working on c++ project (ft_irc)
+- 🔭 Working on c++ / python projects
+- 🚀 Looking for a stage!
 - 📫 mail : asimon@student.42.fr
 - 📧 slack : asimon
 - 🤖 discord : casuis#7228

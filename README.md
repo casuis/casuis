@@ -2,8 +2,8 @@
 
 
 - 💻 I’m a 42 student in Paris
-- 🔭 Working on c++ / python projects
-- 🚀 Looking for a stage!
+- 🚀 Currently in internship at Dolcevia 🚴🌱
+- 🔭 Working on web projects
 - 📫 mail : asimon@student.42.fr
 - 📧 slack : asimon
 - 🤖 discord : casuis#7228

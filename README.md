@@ -3,7 +3,6 @@
 
 - 💻 I’m a 42 student in Paris
 - 🔭 Working on web projects
-- 📧 slack : asimon
 - 🤖 discord : casuis#7228
  
 

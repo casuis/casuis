@@ -8,7 +8,7 @@
 ---
 
 <a name='stat-github'>
-  <img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=casuis&show_icons=true&theme=dracula&hide=issues&hide_border=true&border_radius=10&hide_rank=true" alt="Asimon's GitHub stats">
+  <img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=casuis&show_icons=true&theme=dracula&hide=issues&hide_border=true&border_radius=10&hide_rank=true&custom_title=My%20GitHub%20Stats" alt="Asimon's GitHub stats">
 </a>
 <a name='stat-language'>
 <img height="200" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=casuis&layout=donut&theme=dracula&hide_border=true&border_radius=10&size_weight=0&count_weight=1&hide=Makefile">

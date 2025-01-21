@@ -5,8 +5,9 @@
 - 🌱 Allways looking to improv my coding skills
 - 📩 Email me at: bilcasuis@gmail.com
 
- 
+---
 
+![Asimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=casuis&show_icons=true&theme=dracula&hide=issues&hide_border=true&border_radius=10&hide_rank=true)
 
 
 

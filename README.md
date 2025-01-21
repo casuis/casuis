@@ -7,10 +7,10 @@
 
 ---
 
-<a href="https://github.com/casuis">
+<a name='stat-github'>
   <img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=casuis&show_icons=true&theme=dracula&hide=issues&hide_border=true&border_radius=10&hide_rank=true" alt="Asimon's GitHub stats">
 </a>
-<a href="https://github.com/casuis">
+<a name='stat-language'>
 <img height="200" align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=casuis&layout=donut&theme=dracula&hide_border=true&border_radius=10">
 </a>
 

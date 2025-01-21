@@ -3,7 +3,7 @@
 - 🚀 Currently in internship for [Wassa](https://wassa.io/en)
 - 💻 Fullstack dev
 - 🌱 Allways looking to improv my coding skills
-- 📩 email me at: bilcasuis@gmail.com
+- 📩 Email me at: bilcasuis@gmail.com
 
  
 
